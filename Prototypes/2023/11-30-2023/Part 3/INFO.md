@@ -1,0 +1,1 @@
+A while back, I went to my local UPS Store to scan a comic book art board I had lying around, but it wasn't scanned as an image file like I had hoped, but as a PDF file instead. So, with this example, I was able to convert that PDF file into a PNG file. Included in this example is the code itself, the PDF file I used, and the converted PNG version made with the code.
