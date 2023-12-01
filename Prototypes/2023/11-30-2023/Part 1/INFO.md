@@ -1,0 +1,1 @@
+In this first example, I used the Python programming language to create a PNG image from scratch, it's a transparent image with a thick white border. Included is the code itself and the "output" image created from that code.
