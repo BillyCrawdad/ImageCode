@@ -1,4 +1,5 @@
-Last Updated on November 30th, 2023
+Project Updated on November 30th, 2023
+README Message Updated on November 30th, 2023
 
 		Hey everyone, I started experimenting with using Python programming to make 
 	PNG images, and I thought I'd share the code I'm using if anyone else is also
